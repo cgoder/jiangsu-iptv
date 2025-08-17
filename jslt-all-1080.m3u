@@ -113,7 +113,7 @@ http://112.86.202.37:8112/JSBC_iptv/C10000198@JSBC
 http://112.86.202.37:8112/JSBC_iptv/C10000200@JSBC
 #EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://live.fanmingming.cn/tv/云南卫视.png",云南卫视
 http://112.86.202.37:8112/JSBC_iptv/C10000202@JSBC
-#EXTINF:-1 tvg-name="江苏卫视2K" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视2K.png",江苏卫视2K
+#EXTINF:-1 tvg-name="江苏卫视4K" tvg-logo="https://live.fanmingming.cn/tv/江苏卫视.png",江苏卫视4K
 http://112.86.202.37:8112/JSBC_iptv/C10000143@JSBC
 #EXTINF:-1 tvg-name="广东卫视4K" tvg-logo="https://live.fanmingming.cn/tv/广东卫视4K.png",广东卫视4K
 http://112.86.202.37:8112/JSBC_iptv/C10000436@JSBC
@@ -124,7 +124,7 @@ http://112.86.202.37:8112/JSBC_iptv/C10000438@JSBC
 #EXTINF:-1 tvg-name="深圳卫视4K-2" tvg-logo="https://live.fanmingming.cn/tv/深圳卫视4K-2.png",深圳卫视4K-2
 http://112.86.202.37:8112/JSBC_iptv/C10000439@JSBC
 #EXTINF:-1 tvg-name="江苏城市" tvg-logo="https://live.fanmingming.cn/tv/江苏城市.png",江苏城市
-http://112.86.202.37:8112/JSBC_iptv/C10000224@JSBC
+http://112.86.202.37:8112/JSBC_iptv/C10000224@JSBC```
 #EXTINF:-1 tvg-name="江苏综艺" tvg-logo="https://live.fanmingming.cn/tv/江苏综艺.png",江苏综艺
 http://112.86.202.37:8112/JSBC_iptv/C10000225@JSBC
 #EXTINF:-1 tvg-name="江苏体育" tvg-logo="https://live.fanmingming.cn/tv/江苏体育.png",江苏体育
@@ -136,14 +136,18 @@ http://112.86.202.37:8112/JSBC_iptv/C10000229@JSBC
 #EXTINF:-1 tvg-name="江苏教育" tvg-logo="https://live.fanmingming.cn/tv/江苏教育.png",江苏教育
 http://112.86.202.37:8112/JSBC_iptv/C10000231@JSBC
 #EXTINF:-1 tvg-name="南京科教" tvg-logo="https://live.fanmingming.cn/tv/南京科教.png",南京科教
+http://122.96.52.98:8006/JS_CUCC/G_NJJK.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEiGqx7T0gmg2iKRDXWqfssbEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
 http://112.86.202.37:8112/JSBC_iptv/C10000122@JSBC
 #EXTINF:-1 tvg-name="南京新闻" tvg-logo="https://live.fanmingming.cn/tv/南京新闻.png",南京新闻
+http://122.96.52.98:8006/JS_CUCC/G_NJXW.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEoMjcH0bdretQeGgwOgFK%2FnEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
 http://112.86.202.37:8112/JSBC_iptv/C10000128@JSBC
 #EXTINF:-1 tvg-name="南京十八" tvg-logo="https://live.fanmingming.cn/tv/南京十八.png",南京十八
+http://122.96.52.98:8006/JS_CUCC/G_NJSB.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEqlM1l%2BeoFKI8wnHz%2FUgbsbEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
 http://112.86.202.37:8112/JSBC_iptv/C10000129@JSBC
 #EXTINF:-1 tvg-name="南京影视" tvg-logo="https://live.fanmingming.cn/tv/南京影视.png",南京影视
 http://112.86.202.37:8112/JSBC_iptv/C10000153@JSBC
 #EXTINF:-1 tvg-name="南京文旅记录" tvg-logo="https://live.fanmingming.cn/tv/南京文旅记录.png",南京文旅记录
+http://122.96.52.98:8006/JS_CUCC/G_NJYL.m3u8?Authinfo=%2BLV5NjPbEZEr5hC6nnbtEjFqfQRndUrBSsUh%2BqRc5aPEl4iMNl0LfXN60kch0at8&p=GITV&area=JS_CUCC
 http://112.86.202.37:8112/JSBC_iptv/C10000154@JSBC
 #EXTINF:-1 tvg-name="南京少儿" tvg-logo="https://live.fanmingming.cn/tv/南京少儿.png",南京少儿
 http://112.86.202.37:8112/JSBC_iptv/C10000156@JSBC
